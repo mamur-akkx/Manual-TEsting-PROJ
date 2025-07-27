@@ -1,1 +1,1 @@
-# Manual-TEsting-PROJ
+# Manual-TESTING-PROJ
